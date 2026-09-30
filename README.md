@@ -2,7 +2,6 @@
 
 [한국어](README_ko.md)
 
-
 **Status: research concept.** A parking workflow that detects slots in BEV, lets a user choose an empty slot, and uses a reward model to evaluate candidate paths before execution.
 
 ## Proposed workflow
@@ -36,8 +35,4 @@ The aspiration is an optimal parking path. A reward model alone does not guarant
 - How do candidate paths respect vehicle dimensions, steering limits, and collision constraints?
 - When should a selected slot or path be re-evaluated as the scene changes?
 
-Suggested evaluation measures are parking success, collision rate, final pose error, maneuver count, and planning latency. No results are available in the supplied material.
-
-## Source
-
-The author's accompanying project description. No parking implementation, model weights, or dedicated parking figure was included among the three supplied decks.
+Suggested evaluation measures are parking success, collision rate, final pose error, maneuver count, and planning latency. Evaluation is planned.
