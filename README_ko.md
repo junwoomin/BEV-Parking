@@ -1,3 +1,5 @@
+![BEV parking architecture](assets/bev_parking.png)
+
 # BEV Parking with a Reward Model
 
 [English](README.md)
