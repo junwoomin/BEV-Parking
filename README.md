@@ -4,7 +4,9 @@
 
 [한국어](README_ko.md)
 
-**Status: research concept.** A parking workflow that detects slots in BEV, lets a user choose an empty slot, and uses a reward model to evaluate candidate paths before execution.
+**Status: paused at the foundational study and research-concept stage.** The work focused on learning core concepts, studying related papers, and outlining an architecture with the goal of writing a research paper. Practical research and project development remained limited. Time constraints from concurrent projects, limited computing resources, and insufficient personnel prevented progression to substantial model development and experimental validation.
+
+The proposed parking workflow detects slots in BEV, lets a user choose an empty slot, and uses a reward model to evaluate candidate paths before execution.
 
 ## Proposed workflow
 
