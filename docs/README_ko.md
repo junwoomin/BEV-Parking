@@ -1,8 +1,8 @@
-![BEV parking architecture](assets/bev_parking.png)
+![BEV parking architecture](../assets/bev_parking.png)
 
 # BEV Parking with a Reward Model
 
-[English](README.md)
+[English](../README.md)
 
 **상태: 기초 스터디 및 연구 구상 단계에서 중단.** 논문 작성을 목표로 기초 개념 학습과 관련 논문 스터디, 구조 구상을 중심으로 진행했습니다. 실제 연구·프로젝트 개발은 제한적으로 이루어졌으며, 다른 프로젝트 병행에 따른 시간 제약과 컴퓨팅 자원·인력 부족으로 본격적인 모델 개발과 실험 검증까지 진행하지 못했습니다.
 
